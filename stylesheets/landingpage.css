@@ -22,18 +22,3 @@ body {
 h1, h3{
 	text-align: center;
 }
-
-.banner {
-	position: fixed;
-	width: 98%;
-	text-align: center;
-	/*rgb range 0-255*/
-	/*a (alpha) 0 to 1*/
-	background-color: rgba(20, 200, 100, .5);
-	top: 50%;
-	border: 10px solid black;
-	margin: 0;
-	color: black;
-	transition: 0.8s all;
-	font-size: 40px;
-}
